@@ -12,9 +12,9 @@ Ce projet consiste en la création d'un outil d'aide à la décision (Bussiness 
      ### 1. Vision globale du dashboard (KPI,TCD & Graphique)
      <img src="Dashboard_global_png.png" width="100%">
      ### 2. Répartition du chiffre d'affaires par canal (Graphique Circulaire)
-     <img src="dashboard global 2 _png.png" width="100%">
+     <img src="dashboard%20global%202%20_%20png.png" width="100%">
      ### 3. Analyse par Produit & Formules Robustes
-     <img src="dashboard global 3 _png.png" width=100%">
+     <img src="dashboard%20global%203%20_%20png.png" width=100%">
 
      ---
      *Projet réalisé de bout en bout avec une attention particulière portée à la robutesse des donnés et à l'expérience utilisateur (UX).*
