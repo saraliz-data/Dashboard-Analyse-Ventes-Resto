@@ -13,7 +13,7 @@ Ce projet consiste en la création d'un outil d'aide à la décision (Bussiness 
      ![Dashboard Global)
      (Dashboard_global_png.png)
      ### 2. Répartition du chiffre d'affaires par canal (Graphique Circulaire)
-     ![Graphique canal] (dashboard global 2_png.png)
+     ![Graphique canal] (dashboard global 2 _png.png)
      ### 3. Analyse par Produit & Formules Robustes
      ![Graphique Produit ] (dashboard global 3 _png.png)
 
