@@ -10,12 +10,11 @@ Ce projet consiste en la création d'un outil d'aide à la décision (Bussiness 
      ## Apercu de Dashboard
      Voici une apercu visuel des livrables inclus dans ce depot :
      ### 1. Vision globale du dashboard (KPI,TCD & Graphique)
-     ![Dashboard Global)
-     (Dashboard_global_png.png)
+     <img src="Dashboard_global_png.png" width="100%">
      ### 2. Répartition du chiffre d'affaires par canal (Graphique Circulaire)
-     ![Graphique canal] (dashboard global 2 _png.png)
+     <img src="dashboard global 2 _png.png" width="100%">
      ### 3. Analyse par Produit & Formules Robustes
-     ![Graphique Produit ] (dashboard global 3 _png.png)
+     <img src="dashboard global 3 _png.png" width=100%">
 
      ---
      *Projet réalisé de bout en bout avec une attention particulière portée à la robutesse des donnés et à l'expérience utilisateur (UX).*
